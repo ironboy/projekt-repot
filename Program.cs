@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Good day to your Sir/Madam!");
+﻿Console.WriteLine("Good day to your Sir/Madam!")
