@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hi yo - waz up?");
+﻿Console.WriteLine("Good day to your Sir/Madam!");
