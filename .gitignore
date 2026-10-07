@@ -1,2 +1,6 @@
+# Ingore temp dotnet project files
 bin/
 obj/
+
+# Mac-specific
+.DS_Store
